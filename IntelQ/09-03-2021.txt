@@ -1,0 +1,99 @@
+Number of Laureates: 955
+-------------------------------------------------------------
+
+Economy Laureates:
+Akerlof George A.
+Allais Maurice
+Arrow Kenneth J.
+Aumann Robert J.
+Banerjee Abhijit
+Becker Gary
+Buchanan Jr. James M.
+Coase Ronald H.
+Deaton Angus
+Debreu Gerard
+Diamond Peter A.
+Duflo Esther
+Engle III Robert F.
+Fama Eugene F.
+Fogel Robert W.
+Friedman Milton
+Frisch Ragnar
+Granger Clive W.J.
+Haavelmo Trygve
+Hansen Lars Peter
+Harsanyi John C.
+Hart Oliver
+Heckman James J.
+Hicks John R.
+Holmström Bengt
+Hurwicz Leonid
+Kahneman Daniel
+Kantorovich Leonid Vitaliyevich
+Klein Lawrence R.
+Koopmans Tjalling C.
+Kremer Michael
+Krugman Paul
+Kuznets Simon
+Kydland Finn E.
+Leontief Wassily
+Lewis Sir Arthur
+Lucas Jr. Robert E.
+Markowitz Harry M.
+Maskin Eric S.
+McFadden Daniel L.
+Meade James E.
+Merton Robert C.
+Milgrom Paul
+Miller Merton H.
+Mirrlees James A.
+Modigliani Franco
+Mortensen Dale T.
+Mundell Robert
+Myerson Roger B.
+Myrdal Gunnar
+Nash Jr. John F.
+Nordhaus William D.
+North Douglass C.
+Ohlin Bertil
+Ostrom Elinor
+Phelps Edmund S.
+Pissarides Christopher A.
+Prescott Edward C.
+Romer Paul M.
+Roth Alvin E.
+Samuelson Paul A.
+Sargent Thomas J.
+Schelling Thomas C.
+Scholes Myron
+Schultz Theodore W.
+Selten Reinhard
+Sen Amartya
+Shapley Lloyd S.
+Sharpe William F.
+Shiller Robert J.
+Simon Herbert
+Sims Christopher A.
+Smith Vernon L.
+Solow Robert M.
+Spence A. Michael
+Stigler George J.
+Stiglitz Joseph E.
+Stone Richard
+Thaler Richard H.
+Tinbergen Jan
+Tirole Jean
+Tobin James
+Vickrey William
+Williamson Oliver E.
+Wilson Robert
+von Hayek Friedrich
+-------------------------------------------------------------
+
+Laureates with more than one prize:
+International Committee of the Red Cross 3
+Curie Marie 2
+Bardeen John 2
+Pauling Linus 2
+Sanger Frederick 2
+Office of the United Nations High Commissioner for Refugees 2

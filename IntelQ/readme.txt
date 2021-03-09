@@ -1,0 +1,1 @@
+script.bat should be started when it's Friday 2:51PM.
